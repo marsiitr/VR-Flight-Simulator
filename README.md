@@ -2,11 +2,11 @@
 Srishti 2019
 ## IMAGES OF THE PROJECT:
 
-![Project Images](/Photos And Videos/photos/while playing.jpg)
+ ![Project Images](/Photos And Videos/photos/while playing.jpeg)
 
-![Project Images](/Photos And Videos/photos/plane.jpg)
+ ![Project Images](/Photos And Videos/photos/plane.jpeg)
 
-! [Project Images](/Photos And Videos/photos/Project Mechanical design.jpg)
+ ![Project Images](/Photos And Videos/photos/Project Mechanical design.jpeg)
 ***
 ## ABSTRACT:
 
@@ -85,7 +85,7 @@ Some software improvments can be done such as adding of distance from mountain (
 
 	`forum.arduino.cc/index.php?topic=59742.0https://forum.arduino.cc/index.php?topic=59742.0`
 
-5. [How to use MPU-9250 Gyroscope, Accelerometer, Magnetometer](www.youtube.com/watch?v=mzwovYcozvIhttps://www.youtube.com/watch v=mzwovYcozvI)
+5. [How to use MPU-9250 Gyroscope, Accelerometer, Magnetometer](www.youtube.com/watch?v=mzwovYcozvIhttps://www.youtube.com/watch)
 
 	`www.youtube.com/watch?v=mzwovYcozvIhttps://www.youtube.com/watch?v=mzwovYcozvI`
 
