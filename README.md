@@ -31,7 +31,7 @@ Our motivation for doing this project was the creativity of the idea and our fas
 ## COST STRUCTURE:
 
 1. Mechanical 
- * welding : rs 70
+	* welding : rs 70
 	* ply     : rs 300
 	* wire    : rs 200
  
@@ -71,7 +71,7 @@ Some software improvments can be done such as adding of distance from mountain (
 
 1. [Getting Started With the ESP8266 ESP-01](www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/)
 
-	       `www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01`
+	`www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01`
 
 2. [Wiring ESP8266 nodeMCU with HCSR04 Ultrasonic Sensor](https://www.14core.com/wiring-esp8266-nodemcu-with-hcsr04-ultrasonic-sensor/)
 
