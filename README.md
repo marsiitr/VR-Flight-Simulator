@@ -2,9 +2,11 @@
 Srishti 2019
 ## IMAGES OF THE PROJECT:
 
-![Project Images](/VR-Flight-Simulator/Photos And Videos/photos/while playing.jpg)
-![Project Images](/VR-Flight-Simulator/Photos And Videos/photos/plane.jpg)
-![Project Images](/VR-Flight-Simulator/Photos And Videos/photos/Project Mechanical design.jpg)
+ ![Project Images](/Photos And Videos/photos/while playing.jpeg)
+
+ ![Project Images](/Photos And Videos/photos/plane.jpeg)
+
+ ![Project Images](/Photos And Videos/photos/Project Mechanical design.jpeg)
 ***
 ## ABSTRACT:
 
@@ -29,15 +31,15 @@ Our motivation for doing this project was the creativity of the idea and our fas
 ## COST STRUCTURE:
 
 1. Mechanical 
-	*welding : rs 70
-	*ply     : rs 300
-	*wire    : rs 200
+	* welding : rs 70
+	* ply     : rs 300
+	* wire    : rs 200
  
 2. Electrical
-	*esp8266 module       : rs 500
-	*ultrasonic sensor    : rs 100
-	*bump sensor          : rs 20
-	*potentiometer sensor : rs 50
+	* esp8266 module       : rs 500
+	* ultrasonic sensor    : rs 100
+	* bump sensor          : rs 20
+	* potentiometer sensor : rs 50
 ***
 ## APPLICATIONS:
 
@@ -68,24 +70,31 @@ Some software improvments can be done such as adding of distance from mountain (
 ## Refrences:
 
 1. [Getting Started With the ESP8266 ESP-01](www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/)
-	       `www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01`
+
+	`www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01`
 
 2. [Wiring ESP8266 nodeMCU with HCSR04 Ultrasonic Sensor](https://www.14core.com/wiring-esp8266-nodemcu-with-hcsr04-ultrasonic-sensor/)
+
 	`https://www.14core.com/wiring-esp8266-nodemcu-with-hcsr04-ultrasonic-sensor`
 
 3. [How to use a potentiometer to control the speed of a DC Motor](www.youtube.com/watch?v=S-AMqJW0Cvohttps://www.youtube.com/watch?v=S-AMqJW0Cvo)
+
 	`www.youtube.com/watch?v=S-AMqJW0Cvohttps://www.youtube.com/watch?v=S-AMqJW0Cvo`
 
 4. [Programming using a bump sensor (really basic/beginner)](forum.arduino.cc/index.php?topic=59742.0https://forum.arduino.cc/index.php?topic=59742.0)
+
 	`forum.arduino.cc/index.php?topic=59742.0https://forum.arduino.cc/index.php?topic=59742.0`
 
-5. [How to use MPU-9250 Gyroscope, Accelerometer, Magnetometer](www.youtube.com/watch?v=mzwovYcozvIhttps://www.youtube.com/watch?v=mzwovYcozvI)
+5. [How to use MPU-9250 Gyroscope, Accelerometer, Magnetometer](www.youtube.com/watch?v=mzwovYcozvIhttps://www.youtube.com/watch)
+
 	`www.youtube.com/watch?v=mzwovYcozvIhttps://www.youtube.com/watch?v=mzwovYcozvI`
 
 6. [SolidWorks Tutorial](www.youtube.com/channel/UCtwaWPOXEBysZLh1rrPzwFwhttps://www.youtube.com/channel/UCtwaWPOXEBysZLh1rrPzwFw)
+
 	`www.youtube.com/channel/UCtwaWPOXEBysZLh1rrPzwFwhttps://www.youtube.com/channel/UCtwaWPOXEBysZLh1rrPzwFw`
 
 7. [Unity Tutorials](https://www.youtube.com/user/Unity3D/videos)
+
 	`https://www.youtube.com/user/Unity3D/videos`
 ***
 ***
