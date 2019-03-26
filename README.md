@@ -2,9 +2,9 @@
 Srishti 2019
 ## IMAGES OF THE PROJECT:
 
-![Project Images](/VR-Flight-Simulator/Photos And Videos/photos/while playing.jpg)
-![Project Images](/VR-Flight-Simulator/Photos And Videos/photos/plane.jpg)
-![Project Images](/VR-Flight-Simulator/Photos And Videos/photos/Project Mechanical design.jpg)
+![Project Images](/Photos And Videos/photos/while playing.jpg)
+![Project Images](/Photos And Videos/photos/plane.jpg)
+! [Project Images](/Photos And Videos/photos/Project Mechanical design.jpg)
 ***
 ## ABSTRACT:
 
