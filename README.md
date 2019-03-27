@@ -2,11 +2,17 @@
 Srishti 2019
 ## IMAGES OF THE PROJECT:
 
+### while paying
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
 
+### plane mesh made from wire
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
 
+### Project Mechanical design
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
+
+### Game made on unity
+![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg)
 ***
 ## ABSTRACT:
 
@@ -23,11 +29,57 @@ Our motivation for doing this project was the creativity of the idea and our fas
 ***
 ## MECHANICAL ASPECT OF DESIGN:
 ***
+Our mechanical parts consists of
 
+1. joystick
+2. throttle
 
-## ELECTRICAL ASPECT OF DESIGN:
+	Explaination :-
+	
+	1. joystick
+	
+	this device is used for controlling the aeroplane so that user experiences reality ( gives us a real experience ), with the help of this device we tried to make environment like that of aeroplane .
+	
+	2. throttle 
+	
+	this device is basically used for controling the speed of aeroplane.
+	
+	Both the devices are made from basic components such as ply , a man made springs , steel channels , ball bearings , and joining components
+
+## ELEctronic ASPECT OF DESIGN:
 ***
 
+Electronics Consist of use of
+
+1. Ultrasonic sensor
+
+	for giving pitch to plane
+	
+2. Gyro sensor
+
+	for detecting right-left motion of plane
+
+3. Potentiometer
+
+	for detecting throttle
+	
+4. Bump Sensor
+
+	for detecting Rocket shooting
+
+5. Esp module
+
+	for receiving data from sensors and sending it to unity
+	
+## Complete Working of Project
+***
+
+what we are doing is that
+* taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
+* after receiving data we are scaling it in unity to make it in suitable form and sending it to our game
+* then we are using a software called trinus vr to project computer screen onto our mobile in form of 3d environment by making pc as server and mobile as receiver
+* This is it.Syncing sensor input and input in unity was very crucial.
+	
 ## COST STRUCTURE:
 
 1. Mechanical 
