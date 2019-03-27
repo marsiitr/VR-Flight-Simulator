@@ -28,7 +28,7 @@ respectively.A game on pc was developed by us which contains a plane and some ob
 Our motivation for doing this project was the creativity of the idea and our fascination with the end result.
 ***
 ## MECHANICAL ASPECT OF DESIGN:
-***
+
 Our mechanical parts consists of
 
 1. joystick
@@ -45,7 +45,7 @@ Explaination :-
 	this device is basically used for controling the speed of aeroplane.
 	
 Both the devices are made from basic components such as ply , a man made springs , steel channels , ball bearings , and joining components
-
+***
 ## Electronic ASPECT OF DESIGN:
 
 Electronics Consist of use of
@@ -68,19 +68,16 @@ Electronics Consist of use of
 
 5. Esp module
 
-	for receiving data from sensors and sending it to unity
-	
+	for receiving data from sensors and sending it to unity	
 ***
-	
 ## Complete Working of Project
-***
 
 what we are doing is that
 * taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
 * after receiving data we are scaling it in unity to make it in suitable form and sending it to our game
 * then we are using a software called trinus vr to project computer screen onto our mobile in form of 3d environment by making pc as server and mobile as receiver
 * This is it. Syncing sensor input and input in unity was very crucial.
-	
+ ***
 ## COST STRUCTURE:
 
 1. Mechanical 
