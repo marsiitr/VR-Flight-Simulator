@@ -2,11 +2,11 @@
 Srishti 2019
 ## IMAGES OF THE PROJECT:
 
- ![Project Images](/Photos And Videos/photos/while playing.jpeg)
+ ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/Photos%20And%20Videos/photos/while%20playing.jpg)
 
- ![Project Images](/Photos And Videos/photos/plane.jpeg)
+ ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/Photos%20And%20Videos/photos/plane.jpg)
 
- ![Project Images](/Photos And Videos/photos/Project Mechanical design.jpeg)
+ ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpg)
 ***
 ## ABSTRACT:
 
@@ -15,7 +15,7 @@ In this project We had used a ultrasonic sensor, a bump sensor, a potentiometer 
 sensor (esp8266), and a esp9250 module to make a joystick and a throttle handle. The joytick physically
 moved in vertical circular motion in left write direction, and it moved front and backwards producing 
 respective motion in game. The throttles went front and backwards to accelerate and decelerate the plane
-respectively.
+respectively.A game was developed by us which contains a plane and some objects which can be shot.
 ***
 ## MOTIVATION:
 
