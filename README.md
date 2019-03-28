@@ -25,7 +25,7 @@ Our motivation for doing this project was the creativity of the idea and our fas
  ### PLANE MESH MADE FROM WIRE
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
 
-Our mechanical parts consists of
+Our mechanical parts consists of:
 	
  1. **Joystick**	-This device is used for controlling the aeroplane so that user experiences reality ( gives us a real experience ), with the help of this device we tried to make environment like that of aeroplane .
 2. **Throttle** 	-This device is basically used for controling the speed of aeroplane.
