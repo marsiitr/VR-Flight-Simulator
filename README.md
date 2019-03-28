@@ -1,12 +1,12 @@
 # VR-Flight-Simulator
 Srishti 2019
 
-### Project
+### PROJECT
 ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg)
 
 ## ABSTRACT:
 
-The project we made is known as vr flight simulator.It is a simulation of real life plane experience.
+The project we made is known as VR Flight S imulator.It is a simulation of real life plane experience.
 In this project We had used a ultrasonic sensor, a bump sensor, a potentiometer sensor, a gyroscope
 sensor (esp8266), and a esp9250 module to make a joystick and a throttle handle. The joytick physically
 moved in vertical circular motion in left write direction, and it moved front and backwards producing 
@@ -19,37 +19,32 @@ Our motivation for doing this project was the creativity of the idea and our fas
 
 ## MECHANICAL ASPECT OF DESIGN:
 
-### Project Mechanical Design
+### PROJECT MECHANICAL DESIGN:
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
  
- ### Plane Mesh Made From Wire
+ ### PLANE MESH MADE FROM WIRE:
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
 
 Our mechanical parts consists of
 	
-1. Joystick	-This device is used for controlling the aeroplane so that user experiences reality ( gives us a real experience ), with the help of this device we tried to make environment like that of aeroplane .
-	
-2. Throttle 	-This device is basically used for controling the speed of aeroplane.
-	
+ 1. *Joystick*	-This device is used for controlling the aeroplane so that user experiences reality ( gives us a real experience ), with the help of this device we tried to make environment like that of aeroplane .
+2. *Throttle* 	-This device is basically used for controling the speed of aeroplane.
+
 Both the devices are made from basic components such as ply , a man made springs , steel channels , ball bearings , and joining components
 
-## Electronic ASPECT OF DESIGN:
+## ELECTRONIC ASPECT OF DESIGN:
 
 Electronics Consist of use of
 
-1. Ultrasonic sensor	-for giving pitch to plane
-	
-2. Gyro sensor	-for detecting right-left motion of plane
+1. *Ultrasonic sensor*	-for giving pitch to plane
+2. *Gyro sensor*	-for detecting right-left motion of plane
+3. *Potentiometer*	-for detecting throttle
+4. *Bump Sensor*	-for detecting Rocket shooting
+5. *Esp module*	-for receiving data from sensors and sending it to unity	
 
-3. Potentiometer	-for detecting throttle
-	
-4. Bump Sensor	-for detecting Rocket shooting
+## WORKING:
 
-5. Esp module	-for receiving data from sensors and sending it to unity	
-
-## Working
-
-### while paying
+### WHILE PLAYING:
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
@@ -59,18 +54,17 @@ Electronics Consist of use of
  
 ## COST STRUCTURE:
 
-1. Mechanical 
+1. *Mechanical* 
 
-	|  Component |Cost   |
+	|  Component |Cost  RS. |
 	|-------------|-------|
 	|   Welding   |   70  |
 	|     Ply     |   300 |
 	|     Wire    |  200  |
 	
- 
-2. Electrical
+2. *Electrical*
 
-	|     Component     | Cost  |
+	|     Component     | Cost Rs.  |
 	|-------------------|-------|
 	|  Esp8266 module   |  500  |
 	| Ultrasonic sensor |  100  |
@@ -104,7 +98,7 @@ Some software improvments can be done such as adding of distance from mountain (
 1. Dhruv Sehgal
 2. Gautam Jha
 
-## Refrences:
+## REFRENCES:
 
 1. [Getting Started With the ESP8266 ESP-01](www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/)
 
