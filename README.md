@@ -4,7 +4,7 @@ Srishti 2019
 ### PROJECT
 ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg)
 
-## ABSTRACT:
+## ABSTRACT
 
 The project we made is known as VR Flight S imulator.It is a simulation of real life plane experience.
 In this project We had used a ultrasonic sensor, a bump sensor, a potentiometer sensor, a gyroscope
@@ -13,16 +13,16 @@ moved in vertical circular motion in left write direction, and it moved front an
 respective motion in game. The throttles went front and backwards to accelerate and decelerate the plane
 respectively.A game on pc was developed by us which contains a plane and some objects which can be shot.
 
-## MOTIVATION:
+## MOTIVATION
 
 Our motivation for doing this project was the creativity of the idea and our fascination with the end result.
 
-## MECHANICAL ASPECT OF DESIGN:
+## MECHANICAL ASPECT OF DESIGN
 
-### PROJECT MECHANICAL DESIGN:
+### PROJECT MECHANICAL DESIGN
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
  
- ### PLANE MESH MADE FROM WIRE:
+ ### PLANE MESH MADE FROM WIRE
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
 
 Our mechanical parts consists of
@@ -32,7 +32,7 @@ Our mechanical parts consists of
 
 Both the devices are made from basic components such as ply , a man made springs , steel channels , ball bearings , and joining components
 
-## ELECTRONIC ASPECT OF DESIGN:
+## ELECTRONIC ASPECT OF DESIGN
 
 Electronics Consist of use of
 
@@ -42,9 +42,9 @@ Electronics Consist of use of
 4. *Bump Sensor*	-for detecting Rocket shooting
 5. *Esp module*	-for receiving data from sensors and sending it to unity	
 
-## WORKING:
+## WORKING
 
-### WHILE PLAYING:
+### WHILE PLAYING
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
@@ -52,7 +52,7 @@ Electronics Consist of use of
 * Then we are using a software called trinus vr to project computer screen onto our mobile in form of 3d environment by making pc as server and mobile as receiver
 * This is it. Syncing sensor input and input in unity was very crucial.
  
-## COST STRUCTURE:
+## COST STRUCTURE
 
 1. *Mechanical* 
 
@@ -71,34 +71,34 @@ Electronics Consist of use of
 	|    Bump sensor    |  20   |
 	|  Potentiometer    |  50   |
 
-## APPLICATIONS:
+## APPLICATIONS
 
 1. It can used for real life pilot training. 
 2. It can also be used as a game for mass selling. 
 
-## LIMITATIONS:
+## LIMITATIONS
 
 1. There was a slight noticable delay in rotation of joystick and its effect on screen, due to a long method of transmission of signal.
 2. The system also failed at the end of shrishti so its durablity can be improved.
 
-## FUTURE IMPROVMENTS:
+## FUTURE IMPROVMENTS
 
 The delay of joystick rotation to its result can be decreased by using a short way of giving a signal to software.
 Some software improvments can be done such as adding of distance from mountain (or building) in front, or if the plane is losing stability.
 
-## TEAM MEMBERS:
+## TEAM MEMBERS
 
 1. Allu Vamsi Vishal
 2. Himanshu Akodiya 
 3. Nikhil Choudhary
 4. Shashwat Vangani
 
-## MENTORS:
+## MENTORS
 
 1. Dhruv Sehgal
 2. Gautam Jha
 
-## REFRENCES:
+## REFRENCES
 
 1. [Getting Started With the ESP8266 ESP-01](www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/https://www.instructables.com/id/Getting-Started-With-the-ESP8266-ESP-01/)
 
