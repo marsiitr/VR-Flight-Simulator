@@ -1,17 +1,7 @@
 # VR-Flight-Simulator
 Srishti 2019
-## IMAGES OF THE PROJECT:
 
-### while paying
- ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
-
-### plane mesh made from wire
- ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
-
-### Project Mechanical design
- ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
-
-### Game made on unity
+### Project
 ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg)
 
 ## ABSTRACT:
@@ -28,6 +18,12 @@ respectively.A game on pc was developed by us which contains a plane and some ob
 Our motivation for doing this project was the creativity of the idea and our fascination with the end result.
 
 ## MECHANICAL ASPECT OF DESIGN:
+
+### Project Mechanical Design
+ ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
+ 
+ ### Plane Mesh Made From Wire
+ ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
 
 Our mechanical parts consists of
 	
@@ -52,6 +48,9 @@ Electronics Consist of use of
 5. Esp module	-for receiving data from sensors and sending it to unity	
 
 ## Working
+
+### while paying
+ ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
 * After receiving data we are scaling it in unity to make it in suitable form and sending it to our game
