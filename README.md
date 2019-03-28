@@ -61,7 +61,7 @@ Electronics Consist of use of
 
 1. Mechanical 
 
-	|  Component  |Cost   |
+	|  Component |Cost   |
 	|-------------|-------|
 	|   Welding   |   70  |
 	|     Ply     |   300 |
