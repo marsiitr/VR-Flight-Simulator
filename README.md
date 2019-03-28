@@ -6,7 +6,7 @@ Srishti 2019
 
 ## ABSTRACT
 
-The project we made is known as VR Flight S imulator.It is a simulation of real life plane experience.
+The project we made is known as VR Flight Simulator.It is a simulation of real life plane experience.
 In this project We had used a ultrasonic sensor, a bump sensor, a potentiometer sensor, a gyroscope
 sensor (esp8266), and a esp9250 module to make a joystick and a throttle handle. The joytick physically
 moved in vertical circular motion in left write direction, and it moved front and backwards producing 
@@ -19,10 +19,10 @@ Our motivation for doing this project was the creativity of the idea and our fas
 
 ## MECHANICAL ASPECT OF DESIGN
 
- PROJECT MECHANICAL DESIGN
+ Project Mechanical Design
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
  
-  PLANE MESH MADE FROM WIRE
+  Plane Mesh Made From Wire
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
 
 Our mechanical parts consists of:
@@ -44,7 +44,7 @@ Electronics Consist of use of:
 
 ## WORKING
 
- WHILE PLAYING
+ While Playing
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
@@ -59,7 +59,7 @@ Electronics Consist of use of:
 	|  Component |Cost  RS. |
 	|-------------|-------|
 	|   Welding   |   70  |
-	|     Ply     |   300 |
+	|     Ply (Wood)     |   300 |
 	|     Wire    |  200  |
 	
 2. **Electrical**
@@ -83,8 +83,8 @@ Electronics Consist of use of:
 
 ## FUTURE IMPROVMENTS
 
-The delay of joystick rotation to its result can be decreased by using a short way of giving a signal to software.
-Some software improvments can be done such as adding of distance from mountain (or building) in front, or if the plane is losing stability.
+1. The delay of joystick rotation to its result can be decreased by using a short way of giving a signal to software and also optimizing the graphics in simulation.
+2. Some software improvments can be done such as adding of distance from mountain (or building) in front, or if the plane is losing stability then how to control it and also maintaining a scorecard and highscore board .
 
 ## TEAM MEMBERS
 
