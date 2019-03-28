@@ -27,8 +27,8 @@ Our motivation for doing this project was the creativity of the idea and our fas
 
 Our mechanical parts consists of
 	
- 1. *Joystick*	-This device is used for controlling the aeroplane so that user experiences reality ( gives us a real experience ), with the help of this device we tried to make environment like that of aeroplane .
-2. *Throttle* 	-This device is basically used for controling the speed of aeroplane.
+ 1. **Joystick**	-This device is used for controlling the aeroplane so that user experiences reality ( gives us a real experience ), with the help of this device we tried to make environment like that of aeroplane .
+2. **Throttle** 	-This device is basically used for controling the speed of aeroplane.
 
 Both the devices are made from basic components such as ply , a man made springs , steel channels , ball bearings , and joining components
 
@@ -36,11 +36,11 @@ Both the devices are made from basic components such as ply , a man made springs
 
 Electronics Consist of use of
 
-1. *Ultrasonic sensor*	-for giving pitch to plane
-2. *Gyro sensor*	-for detecting right-left motion of plane
-3. *Potentiometer*	-for detecting throttle
-4. *Bump Sensor*	-for detecting Rocket shooting
-5. *Esp module*	-for receiving data from sensors and sending it to unity	
+1. **Ultrasonic sensor**	-for giving pitch to plane
+2. **Gyro sensor**	-for detecting right-left motion of plane
+3. **Potentiometer**	-for detecting throttle
+4. **Bump Sensor**	-for detecting Rocket shooting
+5. **Esp module**	-for receiving data from sensors and sending it to unity	
 
 ## WORKING
 
@@ -54,7 +54,7 @@ Electronics Consist of use of
  
 ## COST STRUCTURE
 
-1. *Mechanical* 
+1. **Mechanical** 
 
 	|  Component |Cost  RS. |
 	|-------------|-------|
@@ -62,7 +62,7 @@ Electronics Consist of use of
 	|     Ply     |   300 |
 	|     Wire    |  200  |
 	
-2. *Electrical*
+2. **Electrical**
 
 	|     Component     | Cost Rs.  |
 	|-------------------|-------|
