@@ -19,10 +19,10 @@ Our motivation for doing this project was the creativity of the idea and our fas
 
 ## MECHANICAL ASPECT OF DESIGN
 
-### PROJECT MECHANICAL DESIGN
+ PROJECT MECHANICAL DESIGN
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
  
- ### PLANE MESH MADE FROM WIRE
+  PLANE MESH MADE FROM WIRE
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
 
 Our mechanical parts consists of:
@@ -34,7 +34,7 @@ Both the devices are made from basic components such as ply , a man made springs
 
 ## ELECTRONIC ASPECT OF DESIGN
 
-Electronics Consist of use of
+Electronics Consist of use of:
 
 1. **Ultrasonic sensor**	-for giving pitch to plane
 2. **Gyro sensor**	-for detecting right-left motion of plane
@@ -44,7 +44,7 @@ Electronics Consist of use of
 
 ## WORKING
 
-### WHILE PLAYING
+ WHILE PLAYING
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
