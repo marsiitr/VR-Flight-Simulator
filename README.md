@@ -20,10 +20,10 @@ Our motivation for doing this project was the creativity of the idea and our fas
 ## MECHANICAL ASPECT OF DESIGN
 
  Mechanical Design
- <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg" width="100%" height="300">
+ <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg" width="90%" height="450">
  
   Plane Mesh Made From Wire
- <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg" width="100%" height="300">
+ <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg" width="90%" height="450">
  
 Our mechanical parts consists of:
 	
@@ -45,7 +45,7 @@ Electronics Consist of use of:
 ## WORKING
 
  While Playing
-<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg" width="100%" height="300">
+<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg" width="90%" height="450">
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
 * After receiving data we are scaling it in unity to make it in suitable form and sending it to our game
