@@ -3,7 +3,7 @@ Srishti 2019
 
 ### PROJECT
 ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg)
-
+<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg" width="500" height="600">
 ## ABSTRACT
 
 The project we made is known as VR Flight Simulator.It is a simulation of real life plane experience.
@@ -19,12 +19,14 @@ Our motivation for doing this project was the creativity of the idea and our fas
 
 ## MECHANICAL ASPECT OF DESIGN
 
- Project Mechanical Design
+ Mechanical Design
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
+ <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg" width="500" height="600">
  
   Plane Mesh Made From Wire
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
-
+ <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg" width="500" height="600">
+ 
 Our mechanical parts consists of:
 	
  1. **Joystick**	-This device is used for controlling the aeroplane so that user experiences reality ( gives us a real experience ), with the help of this device we tried to make environment like that of aeroplane .
@@ -46,6 +48,7 @@ Electronics Consist of use of:
 
  While Playing
  ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
+<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg" width="500" height="600">
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
 * After receiving data we are scaling it in unity to make it in suitable form and sending it to our game
@@ -56,20 +59,16 @@ Electronics Consist of use of:
 
 1. **Mechanical** 
 
-	|  Component |Cost  RS. |
+	|  Component |Cost(INR) |
 	|-------------|-------|
 	|   Welding   |   70  |
 	|     Ply (Wood)     |   300 |
 	|     Wire    |  200  |
-	
-2. **Electrical**
-
-	|     Component     | Cost Rs.  |
-	|-------------------|-------|
 	|  Esp8266 module   |  500  |
 	| Ultrasonic sensor |  100  |
 	|    Bump sensor    |  20   |
 	|  Potentiometer    |  50   |
+	|   Total|1240|
 
 ## APPLICATIONS
 
