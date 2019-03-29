@@ -2,8 +2,8 @@
 Srishti 2019
 
 ### PROJECT
-![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg)
-<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg" width="500" height="600">
+<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Game.jpeg" width="100%" height="100%">
+
 ## ABSTRACT
 
 The project we made is known as VR Flight Simulator.It is a simulation of real life plane experience.
@@ -20,12 +20,10 @@ Our motivation for doing this project was the creativity of the idea and our fas
 ## MECHANICAL ASPECT OF DESIGN
 
  Mechanical Design
- ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg)
- <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg" width="500" height="600">
+ <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/Project%20Mechanical%20design.jpeg" width="100%" height="80%">
  
   Plane Mesh Made From Wire
- ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg)
- <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg" width="500" height="600">
+ <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/plane.jpeg" width="100%" height="80%">
  
 Our mechanical parts consists of:
 	
@@ -47,8 +45,7 @@ Electronics Consist of use of:
 ## WORKING
 
  While Playing
- ![Project Images](https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg)
-<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg" width="500" height="600">
+<img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg" width="100%" height="80%">
 
 * Taking input from 4 sensors(in form of nos.) and sending this input to unity software through esp module
 * After receiving data we are scaling it in unity to make it in suitable form and sending it to our game
