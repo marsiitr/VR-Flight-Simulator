@@ -54,8 +54,6 @@ Electronics Consist of use of:
  
 ## Cost Structure
 
-1. **Mechanical** 
-
 	|  Component |Cost(INR) |
 	|-------------|-------|
 	|   Welding   |   70  |
