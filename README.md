@@ -42,7 +42,7 @@ Electronics Consist of use of:
 4. **Bump Sensor**	-for detecting Rocket shooting
 5. **Esp module**	-for receiving data from sensors and sending it to unity	
 
-## WOrking
+## Working
 
  While Playing
 <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg" width="90%" height="450">
@@ -54,16 +54,16 @@ Electronics Consist of use of:
  
 ## Cost Structure
 
-	|  Component |Cost(INR) |
-	|-------------|-------|
-	|   Welding   |   70  |
-	|     Ply (Wood)     |   300 |
-	|     Wire    |  200  |
-	|  Esp8266 module   |  500  |
-	| Ultrasonic sensor |  100  |
-	|    Bump sensor    |  20   |
-	|  Potentiometer    |  50   |
-	|   Total|1240|
+|  Component |Cost(INR) |
+|-------------|-------|
+|   Welding   |   70  |
+|     Ply (Wood)     |   300 |
+|     Wire    |  200  |
+|  Esp8266 module   |  500  |
+| Ultrasonic sensor |  100  |
+|    Bump sensor    |  20   |
+|  Potentiometer    |  50   |
+|   Total|1240|
 
 ## Applications
 
