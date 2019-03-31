@@ -32,7 +32,7 @@ Our mechanical parts consists of:
 
 Both the devices are made from basic components such as ply , a man made springs , steel channels , ball bearings , and joining components
 
-## ELectronic Aspect Of Design
+## Electronic Aspect Of Design
 
 Electronics Consist of use of:
 
@@ -42,7 +42,7 @@ Electronics Consist of use of:
 4. **Bump Sensor**	-for detecting Rocket shooting
 5. **Esp module**	-for receiving data from sensors and sending it to unity	
 
-## WOrking
+## Working
 
  While Playing
 <img src="https://github.com/Nikhil-Choudhary/VR-Flight-Simulator/blob/master/Photos%20And%20Videos/photos/while%20playing.jpeg" width="90%" height="450">
